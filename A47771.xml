@@ -1,0 +1,224 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Tempora mutantur, or, The great change from 73 to 93 in the travels of a professor of theology at Glasgow, from the primitive and Episcopal loyalty, through Italy, Geneva, &amp;c. to the deposing doctrine, under papistico-phanatico-prelatico colours at Salisbury : together with his great improvement during his short stay at Cracovia.</title>
+            <author>Leslie, Charles, 1650-1722.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1694</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 29 KB of XML-encoded text transcribed from 7 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A47771</idno>
+            <idno type="STC">Wing L1160</idno>
+            <idno type="STC">ESTC R21595</idno>
+            <idno type="EEBO-CITATION">12618125</idno>
+            <idno type="OCLC">ocm 12618125</idno>
+            <idno type="VID">64430</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A47771)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 64430)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 673:2)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Tempora mutantur, or, The great change from 73 to 93 in the travels of a professor of theology at Glasgow, from the primitive and Episcopal loyalty, through Italy, Geneva, &amp;c. to the deposing doctrine, under papistico-phanatico-prelatico colours at Salisbury : together with his great improvement during his short stay at Cracovia.</title>
+                  <author>Leslie, Charles, 1650-1722.</author>
+               </titleStmt>
+               <extent>6 [i.e. 12] p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1694]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Errors in paging.</note>
+                  <note>Caption title.</note>
+                  <note>Imprint from colophon.</note>
+                  <note>Reproduction of original in Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Burnet, Gilbert, 1643-1715.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-10</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-11</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-12</date>
+            <label>Pip Willcox</label>Sampled and proofread</change>
+         <change>
+            <date>2009-12</date>
+            <label>Pip Willcox</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="tract">
+            <pb n="1" facs="tcp:64430:1" rendition="simple:additions"/>
+            <head>
+               <hi>Tempora Mutantur. <hi>OR,</hi>
+               </hi> The great Change from <hi>73</hi> to <hi>93.</hi> In the Travels of a <hi>Profeſſor of Theology</hi> at <hi>Glaſgow,</hi> from the <hi>Pri<g ref="char:EOLhyphen"/>mitive</hi> and <hi>Epiſcopal Loyalty,</hi> through <hi>Italy, Ge<g ref="char:EOLhyphen"/>neva,</hi> &amp;c. to the <hi>Depoſing Doctrine,</hi> under <hi>Papi<g ref="char:EOLhyphen"/>ſtico-Phanatico-Prelatico</hi> Colours at <hi>Salisbury;</hi> Together with his great Improvement during his ſhort ſtay at <hi>Cracovia.</hi>
+            </head>
+            <head type="sub">To the <hi>Clergy</hi> of the Dioceſs of <hi>Sarum.</hi>
+            </head>
+            <opener>
+               <salute>Reverend Sirs,</salute>
+            </opener>
+            <p>YOur preſent <hi>Dioceſſan</hi> wrote laſt Year 1693. Four Diſ<g ref="char:EOLhyphen"/>courſes, which he has Addreſſed to you in a long E<g ref="char:EOLhyphen"/>piſtolary Preface; and Printed this Year 1694.</p>
+            <p>I have already made ſome Reflections upon the Second of theſe Diſcourſes, <hi>Concerning the Divinity and Death of Chriſt,</hi> and ſhown, I think, very plainly, that he is rank <hi>Socinian</hi> in both. He makes Chriſt to be God no otherwiſe than by the <hi>Indwelling,</hi> as he calls it, of the <hi>Divine Word</hi> in the Perſon of that Man <hi>Jeſus Chriſt,</hi> which is the very an<g ref="char:EOLhyphen"/>ſwer the <hi>Socinians</hi> give; as you may ſee in the <hi>Brief Hiſtory of the <g ref="char:V">Ʋ</g>nitarians,</hi> in their anſwer to <hi>John</hi> 1.14.</p>
+            <p>
+               <pb n="2" facs="tcp:64430:2"/>He explains this in an aſtoniſhing way, by the Indwel<g ref="char:EOLhyphen"/>ling of God in the <hi>Cloud of Glory</hi> which was in the Temple,<milestone type="tcpmilestone" unit="unspecified" n="27"/> and that as they <hi>Worſhipped the Cloud,</hi> becauſe of God's <hi>Reſting</hi> upon it; ſo the <hi>Chriſtians</hi> worſhip <hi>Chriſt,</hi> becauſe of God's <hi>Dwelling</hi> in Him. And the Reaſon he gives for all this, is, That the <hi>Indwelling</hi> of <hi>Jehovah</hi> is <hi>Jehovah.</hi>
+            </p>
+            <p>The <hi>Indwelling</hi> it ſelf cannot be <hi>Jehovah:</hi> for that is no<g ref="char:EOLhyphen"/>thing but our <hi>Conception</hi> of God's dwelling in any thing: Therefore he muſt mean that the <hi>Thing</hi> in which God dwells is <hi>Jehovah,</hi> and then the <hi>Temple</hi> was <hi>Jehovah</hi> as well as the <hi>Cloud;</hi> and the <hi>Sun</hi> is <hi>Jehovah,</hi> and therefore <hi>Adora<g ref="char:EOLhyphen"/>ble:</hi> and ſo is every <hi>Creature;</hi> for God <hi>Dwells</hi> in all, be<g ref="char:EOLhyphen"/>cauſe All have their Being in Him.</p>
+            <p>But no <hi>Indwelling</hi> ſhort of <hi>Imperſonation,</hi> upon which fol<g ref="char:EOLhyphen"/>lows the <hi>Communicatio Idiomatum,</hi> that is, that all the pro<g ref="char:EOLhyphen"/>perties of each of the Natures <hi>Imperſonated</hi> are attributed to the <hi>Perſon,</hi> who partakes of both Natures, as <hi>Eating, Drinking, Growing, Sleeping, Dying</hi> are ſaid of <hi>Man,</hi> be<g ref="char:EOLhyphen"/>cauſe his Body is ſubject to all theſe; as likewiſe <hi>Immorta<g ref="char:EOLhyphen"/>lity,</hi> and other Properties of the <hi>Soul</hi> are as truly ſaid of the <hi>ſame Man.</hi> And thus it is that <hi>Christ</hi> is called <hi>GOD,</hi> in Relation to His <hi>Divine Nature;</hi> and <hi>Man</hi> in relation to his <hi>Humane Nature,</hi> which could not be if both theſe <hi>Na<g ref="char:EOLhyphen"/>tures</hi> were not <hi>Imperſonated;</hi> I ſay no <hi>Indwelling</hi> of <hi>God</hi> ſhort of this <hi>Imperſonation,</hi> can make that Thing in which God dwells, to be truly and really <hi>God.</hi> And therefore neither the <hi>Temple,</hi> nor the <hi>Cloud</hi> were <hi>God;</hi> nor were they <hi>Adorable:</hi> and the <hi>Jews</hi> did not <hi>Worſhip</hi> the <hi>Cloud of Glory,</hi> as your <hi>Dioceſſan</hi> ſtrangely avers. That had been Rank Idolatry. And ſo wou'd the <hi>Worſhip</hi> of <hi>Chriſt</hi> (by his Parallel) if there be no more than an <hi>Indwelling</hi> of the <hi>Divinity</hi> in Him, Nor will the Degrees of <hi>Indwelling</hi> (any I mean ſhort of <hi>Imperſonation</hi>) make any Difference, in this Caſe. God's <hi>Indwelling</hi> is more in <hi>Angels</hi> than in <hi>Men,</hi> or inferiour Creatures; And yet it wou'd be as great <hi>Idola<g ref="char:EOLhyphen"/>try</hi> to <hi>Worſhip</hi> the greateſt <hi>Angel,</hi> as the meaneſt <hi>Worm:</hi> and
+<pb n="3" facs="tcp:64430:2"/>
+therefore your <hi>Dioceſſan</hi>'s ſaying that God dwelt more <hi>Inti<g ref="char:EOLhyphen"/>mately</hi> in <hi>Chriſt</hi> than in the <hi>Cloud,</hi> will not make <hi>Chriſt</hi> to be <hi>God,</hi> more than the <hi>Cloud;</hi> unleſs he carries ſuch <hi>Indwel<g ref="char:EOLhyphen"/>ling</hi> the full length of <hi>Imperſonation,</hi> which if he had in<g ref="char:EOLhyphen"/>tended, he wou'd never have brought in the Parallel of the <hi>Cloud,</hi> and made it to be <hi>Jehovah</hi> and <hi>Adorable,</hi> that it might be a Parallel.</p>
+            <p>As to the other point of <hi>Socinianiſm</hi> concerning the <hi>Death</hi> of <hi>Chriſt,</hi> your <hi>Dioceſſan</hi> pleads expreſly in Oppoſi<g ref="char:EOLhyphen"/>tion to the <hi>Homilie</hi> of <hi>Salvation,</hi> by rejecting the Doctrine of <hi>Satisfaction,</hi> paid by <hi>Chriſt,</hi> becauſe, as he ſays, not <hi>Due</hi> to the <hi>Juſtice</hi> of God. But the aboveſaid <hi>Homilie</hi> does not account him, who holds thus, as a <hi>Chriſtian Man,</hi> but for an <hi>Adverſary</hi> to <hi>Chriſt</hi> and his <hi>Goſpel.</hi> As you may ſee in the <hi>Homilie,</hi> to which I Refer you. And to what I have more at large ſaid upon this Second of your <hi>Dioceſſan</hi>'s Diſ<g ref="char:EOLhyphen"/>courſes.</p>
+            <p>I will at this time, only invite you to look over again with me, his long Dedication to you of theſe his Diſcourſes</p>
+            <p>Wherein, with much <hi>Epiſcopal</hi> Authority, he does <hi>Teach</hi> and <hi>Dictate</hi> to you.<label type="milestone">
+                  <seg type="milestoneunit">p. </seg>10</label> He minds you of your <hi>High Cal<g ref="char:EOLhyphen"/>ling,</hi> and how that ye ought to walk as becomes the <hi>Sons of God,</hi> and to <hi>ſhine as Lights in the World.</hi>
+            </p>
+            <p>Among the neceſſary and ſpiritual Duties of your Profeſſi<g ref="char:EOLhyphen"/>on, he is moſt earneſt with you to <hi>Preach</hi> up the <hi>Preſent Go<g ref="char:EOLhyphen"/>vernment,</hi>
+               <label type="milestone">
+                  <seg type="milestoneunit">p. </seg>12</label> and fill all your <hi>Flocks</hi> with the moſt terrible Ap<g ref="char:EOLhyphen"/>prehenſions of <hi>K. J</hi>'s Return. <q rend="margQuotes">To expreſs an affectionate and hearty Zeal for Their Majeſties and Their Government; to endeavour to keep your People always in mind of the Extream Miſeries, as well as of the viſible Dangers of <hi>Po<g ref="char:EOLhyphen"/>pery</hi> and <hi>Tyranny</hi> [never greater danger of both!] we ought to ſet <hi>Popery</hi> and <hi>Slavery</hi> before them in their true Colours [and you have done it] with all the light and life that we can give them:<label type="milestone">
+                     <seg type="milestoneunit">p. </seg>17</label> we ought to ſet our ſelves a<g ref="char:EOLhyphen"/>gainſt thoſe Falſe Brethren, that pretend they are of the <hi>Church</hi> of <hi>England</hi> but are not; and are of the <hi>Synagogue</hi> of <hi>Satan.</hi>
+               </q>
+            </p>
+            <p>
+               <pb n="4" facs="tcp:64430:3"/>Now, Gentlemen, you know very well, that thi<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap> is turn'd upon your <hi>Dioceſſan,</hi> with all the reſt of the <hi>Swear<g ref="char:EOLhyphen"/>ing Clergy;</hi> that they are the <hi>Falſe Brethren,</hi> the <hi>Synagogue</hi> of <hi>Satan,</hi> who falſely pretend to be of the <hi>Church</hi> of <hi>England,</hi> but are not. And the <hi>Vindication</hi> of the <hi>Deprived Biſhops,</hi> with other Proofs for this, have not yet been anſwer'd. And this your <hi>Dioceſſan</hi> ſhou'd, if he had argu'd fairly, have done firſt: For till that be done to Satisfaction, all theſe Harangues are not only Precarious, Begging the Queſtion, which is the pooreſt ſort of Argumentation: But, which is worſe, they ſeem to conclude againſt your ſelves, while you are not able to clear your ſelves from the Charge of <hi>Schiſm,</hi> which is, with ſo much <hi>Reaſon, Learning</hi> and <hi>Au<g ref="char:EOLhyphen"/>thority</hi> prov'd againſt you.</p>
+            <p>You ought likewiſe to be fully, and without any the leaſt Doubt or Heſitation, ſetl'd and convinc'd in your Conſci<g ref="char:EOLhyphen"/>ences of the <hi>Lawfulneſs of the Preſent Conſtitution</hi> before you <hi>Preach</hi> it up, at this rate, to your <hi>Flocks.</hi> And you know there are a great many ſhrew'd Books wrote of the contrary Side; which are generally very well receiv'd, even by the Learned, and are thought too Knotty to be anſwer'd. Whereas your <hi>Dioceſsan</hi>'s <hi>Meaſures of Obedience,</hi> his <hi>Phoenix Paſtoral,</hi> and what ever elſe has been ſaid by him, or any elſe in Defence of the <hi>Conſtitution,</hi> has been throughly Refuted, at leaſt generally ſo Eſteem'd; even to ſtop Reply, and make <hi>Sherlock</hi> himſelf fly to his <hi>Wife</hi> for help; and cry that <hi>She</hi> has ty'd up his Hands from anſwer<g ref="char:EOLhyphen"/>ing theſe <hi>Jacobites,</hi> and <hi>it is well for them!</hi>
+            </p>
+            <p>But <hi>your Dioceſſan</hi> brings a ſtrong Argument, that you are all fully convinc'd of the <hi>Lawfulneſs</hi> of the <hi>Preſent Con<g ref="char:EOLhyphen"/>ſtitution,</hi> and that is becauſe you are otherwiſe a Pack of the Vileſt and Wickedeſt Atheiſts in the World. <hi>For I cannot (ſays he) admit ſo had a Thought of any of you,</hi>
+               <label type="milestone">
+                  <seg type="milestoneunit">p </seg>15</label> 
+               <hi>as to imagine that you could take the Oaths, and continue to perform the</hi> Divine Offices, <hi>Ordinary and Extraordinary, unleſs you were fully ſatisfied in your Conſciences, concerning the Lawful<g ref="char:EOLhyphen"/>neſs
+<pb n="5" facs="tcp:64430:3"/>
+both of the one and the other. This is ſo black an Imputation, to ſuppoſe that Men of common Probity, not to ſay, Men that ought to be the</hi> Patterns, <hi>as well as the</hi> Inſtructers <hi>of others, ſhould ſwear an Oath, and Adhere ſo long to it, which is an In<g ref="char:EOLhyphen"/>terpretative Renewing of it, ever till it is openly Retracted; and ſhou'd in thoſe frequent Returns of daily Prayers, beſides the ſpe<g ref="char:EOLhyphen"/>cial Offices of Faſts and</hi> Thankſgiving-Days, <hi>offer up Devo<g ref="char:EOLhyphen"/>tions to God, contrary to their Perſwaſions, that no Man is ca<g ref="char:EOLhyphen"/>pable of ſo Heinous, and ſo continued a Provocation, unleſs he is either a Determinate Atheiſt, or a Man of a ſear'd and hard<g ref="char:EOLhyphen"/>ned Conſcience. — This is of ſo odious a Nature, that indeed it is not eaſy to find words ſevere enough to ſet it out by,</hi> &amp;c.</p>
+            <p>Which or how many of you, Gentlemen, find your ſelves concern'd in This ſo ſevere Reproof of your <hi>Dioceſſan,</hi> I leave to your own Conſciences.</p>
+            <p>But I muſt obſerve to You, and to the World, that he has ſaid all this againſt Himſelf; for in the <hi>Chappel of Her Roy<g ref="char:EOLhyphen"/>al Highneſs at the</hi> Hague, he did often not only Pray for the <hi>P.</hi> of <hi>Wales</hi> by Name, whom at the end of his <hi>Meaſures of Obedience,</hi> he calls a <hi>Baſe Impoſture;</hi> but in the Daily Pray<g ref="char:EOLhyphen"/>ers of <hi>Our Liturgy,</hi> which was there uſed; he prayed for Victory to <hi>K. J.</hi> over all his Enemies, at the ſame time he was buſy (and moſt buſy he was) to carry on an Invaſion againſt him, to pull the Crown from off His Head, or elſe his Head from his Shoulders; and in order to it, Penning <hi>Declarations,</hi> and ſpreading virulent Pamphlets to Imbitter the Nation againſt <hi>K. J.</hi> particularly of the <hi>Baſe Impoſture,</hi> as he calls it, for which notwithſtanding, he continued to Pray, till it was time to take off the Mask.</p>
+            <p>If he ſays that he knew of no Deſign to <hi>De-Throne K. J.</hi> But that his <hi>Abdication</hi> was Occaſional, and not foreſeen or Deſired, I muſt acquaint you, that I have it from the Mouths of Perſons of Honour and Reputation, who heard it more than once from his own mouth, That he was the Man, who was Pitch'd upon three Years before this Revo<g ref="char:EOLhyphen"/>lution, to break the Deſign to Her Royal Highneſs of De<g ref="char:EOLhyphen"/>poſing
+<pb n="6" facs="tcp:64430:4"/>
+Her Father, and ſetting Her upon the Throne: to which he ſaid, She conſented, (after ſome little Surprize upon the firſt Propoſal) provided the <hi>Prince</hi> might be like<g ref="char:EOLhyphen"/>wiſe <hi>King;</hi> and this he told by way of magnifying her great Love and Deference to her Husband; and to ſhew how good a Wife—</p>
+            <p>Whether in theſe Prayers for <hi>K. J.</hi> and the <hi>P.</hi> of <hi>W.</hi> he was a <hi>determinate Atheiſt,</hi> or only <hi>A Man of a Sear'd and hardned Conſcience,</hi> is left to his Choice, and your De<g ref="char:EOLhyphen"/>termination? For, by his Cenſure of ſome of you, he has left himſelf no other Choice. Good God! How will it go down with <hi>Atheiſtical,</hi> and <hi>Light Wits</hi> to ſee <hi>ſuch a Man</hi> in<g ref="char:EOLhyphen"/>veigh ſo <hi>Piouſly</hi> againſt <hi>Hypocriſy</hi> in <hi>Prayer,</hi> or any Immor<g ref="char:EOLhyphen"/>rality! It is the greateſt Prejudice in the World to <hi>Re<g ref="char:EOLhyphen"/>ligion,</hi> to be ſet up by ſuch ſort of Men. If they would ſerve their Interereſts of <hi>Religion,</hi> let them never name it, Leſt, for the ſakes, they bring the Whole to be thought a Cheat. How much have they done it already? The <hi>Nation</hi> is run, into Direct <hi>Atheiſm,</hi> ſince this <hi>Revolution!</hi>
+            </p>
+            <p>But you, Gentlemen, muſt not have the leaſt Scruple againſt the <hi>Lawfulneſs of this Conſtitution,</hi> upon pain of be<g ref="char:EOLhyphen"/>ing as ill as words can make you. And therefore it was very neceſſary your <hi>Dioceſſan,</hi> at the ſame time that he warn'd you of the Danger, ſhould provide you a ſure and certain Remedy, and build you up upon ſuch a Foundation as ſhould not fail; becauſe by His, and your own Confeſſion, if it fail you, you periſh with it, with the Blood of all thoſe of your <hi>Flocks</hi> upon <hi>your heads,</hi> whom by your <hi>Diſſi<g ref="char:EOLhyphen"/>mulation</hi> you have ſeduc'd.</p>
+            <p>Now then come we to this ſtrong Foundation. He uſhers it in with Great Expectation <hi>p.</hi> 19. he ſpeaks of it as a <hi>New</hi> and <hi>Happy</hi> Diſcovery, which had taken mightily with <hi>You,</hi> when he firſt told you of it. <hi>You often heard me</hi> (ſays he) <hi>Enlarge on it with much ſeeming Satisfaction: and becauſe you thought that I laid it out in a more Particular Manner, than you had otherwiſe met with it, I will now ſpread it out be<g ref="char:EOLhyphen"/>fore you.</hi>
+            </p>
+            <p>
+               <pb n="7" facs="tcp:64430:4"/>This Foundation is two Precedents, he brings for the Juſtification of taking Arms againſt our Lawful Gover<g ref="char:EOLhyphen"/>nours, for Defence of our Religion, <hi>&amp;c.</hi>
+            </p>
+            <p>The one, the known Story of the <hi>Maccabees</hi> taking Arms againſt <hi>Antiochus;</hi> the other of <hi>Conſtantine</hi> againſt <hi>Licinius,</hi> when he Perſecuted the <hi>Chriſtians</hi> in the <hi>Eaſt.</hi> But theſe are old Stories. How came you to be ſo mightily taken with them, at this time, as if you had never heard of them before?</p>
+            <p>Your <hi>Dioceſsan</hi> hints that it was not for the ſake of theſe Precedents themſelves; but for that Particular Gift he has in <hi>Spreading,</hi> and <hi>Laying out;</hi> which you know gives quite another <hi>Turn</hi> and <hi>Air</hi> from the ſame thing clutch'd up, and huddl'd together, like a Juggler's Box when it is ſhut, all the Rarity is in the <hi>
+                  <g ref="char:V">Ʋ</g>nfolding.</hi>
+            </p>
+            <p>Well then. Look ſharp. He begins.<label type="milestone">
+                  <seg type="milestoneunit">p. </seg>20</label> 
+               <hi>The firſt of theſe (Precedents) is taken from the Hiſtory of the</hi> Maccabees; <hi>which I deſire you will conſider by theſe Steps.</hi> We will, Sir, and will give you as few Interruptions as will keep us with<g ref="char:EOLhyphen"/>in ſight of you.</p>
+            <p>The firſt <hi>ſtep</hi> is, That the <hi>Jews</hi> were <hi>Subjects</hi> of <hi>Autiochus.</hi> I ſuppoſe you mean, <hi>De jure,</hi> and not <hi>De facto</hi> Subjects; <label type="milestone">
+                  <seg type="milestoneunit">p. </seg>20</label> elſe it has nothing to do with our Buſineſs.</p>
+            <p>Second <hi>ſtep.</hi>
+               <milestone type="tcpmilestone" unit="unspecified" n="22"/> The <hi>Maccabees</hi> never pretended to any Spe<g ref="char:EOLhyphen"/>cial Authority from any Prophet, <hi>(i. e.)</hi> for taking Arms againſt <hi>Antiochus.</hi>
+            </p>
+            <p>Third <hi>ſtep.</hi> The Propheſy. <hi>Dan.</hi> 11.31, 32, 33, 34.<milestone type="tcpmilestone" unit="unspecified" n="23"/> is apply'd to juſtify the <hi>Maccabees.</hi>
+            </p>
+            <p>Fourth <hi>ſtep.</hi> As is likewiſe that Text. <hi>Heb.</hi> 11.34.<note place="margin">24.</note>
+            </p>
+            <p>And now it is <hi>ſpread.</hi> And if he trips upon the firſt <hi>ſtep,</hi> he tumbles to bottom without ſtop.</p>
+            <p>Therefore it is denied to him, that, when the <hi>Macca<g ref="char:EOLhyphen"/>bees</hi> took arms againſt <hi>Antiochus,</hi> the <hi>Jews</hi> were <hi>Lawfully</hi> his Subjects. <hi>The Government of that Tyrant,</hi> (ſays Biſhop <hi>O<g ref="char:EOLhyphen"/>veral</hi>'s Convocation Book. l. 1. c. 31. p. 76.) <hi>being not then either Generally receiv'd by Submiſſion, or ſetled by Continu<g ref="char:EOLhyphen"/>ance,</hi>
+               <pb n="8" facs="tcp:64430:5"/>
+which appears from the Firſt Chapter of the Book of <hi>Maccabees.</hi> And therefore there was no need of the Ex<g ref="char:EOLhyphen"/>traordinary <hi>Miſſion</hi> of a Prophet to enable the <hi>Maccabees</hi> to take arms againſt a <hi>Forreign <g ref="char:V">Ʋ</g>ſurper,</hi> who was invited by ſome <hi>Wicked men of Iſrael,</hi> who went out of their own Coun<g ref="char:EOLhyphen"/>try,<note place="margin">1 <hi>Mac.</hi> 1.11.</note> 
+               <hi>Out of Iſrael,</hi> to make a Covenant with him; and then fought for him, to Eſtabliſh his <hi>Tyranny</hi> over all the Nation of the <hi>Jews. Antiochus,</hi> by means of theſe <hi>Treacherous Jews,</hi> had gotten <hi>Poſſeſſion.</hi> of the Government, and overthrew their Church, as it was before by <hi>Law Eſtabliſhed</hi> (as is complain<g ref="char:EOLhyphen"/>ed in <hi>Scotland,</hi> and in a Great Meaſure in <hi>England</hi>) and the <hi>Maccabees</hi> took arms againſt the Invaſions of this <hi>
+                  <g ref="char:V">Ʋ</g>ſurper</hi> upon their <hi>Religion</hi> and <hi>Liberties</hi> (as was pretended by <hi>Dun<g ref="char:EOLhyphen"/>dee, &amp;c.</hi> in <hi>Scotland</hi>) but this has no Relation to the Caſe of <hi>Subjects</hi> taking arms againſt their <hi>Lawful</hi> and <hi>Hereditary</hi> Mo<g ref="char:EOLhyphen"/>narchs; to which Caſe your <hi>Dioceſſan</hi> applies it; and before him, Pope <hi>Sixtus Quintus,</hi> who compar'd the <hi>Rebellion</hi> of the <hi>Holy League</hi> againſt <hi>Hen.</hi> III. of <hi>France,</hi> to the <hi>Zeal</hi> of the <hi>Maccabees</hi> for Defence of their Religion, and he exhorted them to <hi>fight Gloriouſly</hi> againſt their Lawful King, <hi>for the Advancement of the Church. D'Avila</hi>'s Hiſtory of <hi>France. l.</hi> 9. <hi>p.</hi> (of <hi>Engliſh</hi> Edit. 1678) 355.</p>
+            <p>From the <hi>Pope</hi> and <hi>Conclave</hi> this noble <hi>Precedent</hi> of the <hi>Maccabees</hi> was pick'd up, by our Poor <hi>Fanaticks:</hi> and is very well <hi>ſpread</hi> by one <hi>Iſotinus</hi> a little <hi>Presbyterian,</hi> who put the Objection in theſe words (which leave out nothing of your <hi>Dioceſſan</hi>'s) <hi>But what ſay you,</hi> (ſays <hi>Iſotinus) to the Reſiſt<g ref="char:EOLhyphen"/>ance us'd by</hi> Mattathias <hi>and his Children, who kill'd the King's Officers, and Arm'd againſt him? Which Reſiſtance, as it was foretold by</hi> Daniel; <hi>ſo 'tis ſaid by the Author of the Epiſtle to the</hi> Heb. That by Faith they waxed valiant in fight, and turn'd to flight the Armies of <hi>Aliens: Which by all is applied to the</hi> Maccabees. <hi>And who are you to condemn that which the Holy Ghoſt calls the Work of Faith in them?</hi>
+            </p>
+            <p>
+               <pb n="7" facs="tcp:64430:5"/>
+               <q rend="margQuotes">To this it is anſwer'd by <hi>Baſilius</hi> a <hi>Royaliſt,</hi> in theſe words agreeable to our <hi>Convocation; That</hi> the Title <hi>Anti<g ref="char:EOLhyphen"/>ochus</hi> had to command the <hi>Jews,</hi> is not undoubted: For <hi>Joſephus. lib.</hi> 12. <hi>c.</hi> 7. and 8. ſhews how the <hi>Jewiſh</hi> Nation was toſſed betwixt hands, and ſometimes in the Power of the Kings of <hi>Egypt,</hi> and ſometimes of <hi>Syria;</hi> And that the Factions amongſt the <hi>Jews</hi> gave the Occaſion to their being ſo Invaded; for ambitious Pretenders to the High Prieſthood, ſought the Favour of theſe Kings; and ſo ſacrific'd the Intereſt both of Religion and their Country to their own baſe Ends: Which was the Caſe in <hi>Antioch<g ref="char:EOLhyphen"/>us Epiphanes</hi> his Time, who, after his Attempt upon <hi>E<g ref="char:EOLhyphen"/>gypt,</hi> came againſt <hi>Jeruſalem,</hi> to which he was admitted by the Men of his Party, who open'd the Gates to Him. After which, he Polluted their Worſhip and Temple, and fell on the Cruelleſt Perſecution imaginable: Now his Title over them being ſo ill Grounded, their aſſerting their Freedom and Religion againſt that Cruel and Unjuſt <hi>Invader,</hi> was not of Nature of the <hi>Subjects</hi> Reſiſting their <hi>Sovereign.</hi> Beſides, what is brought from the <hi>Epiſtle</hi> to the <hi>Heb. Chap.</hi> 11. for Juſtifying theſe Wars, ſeems ill apply'd: For from the end of the 32th <hi>Verſe,</hi> it appears he only ſpeaks there of what was done in the times of the <hi>Prophets;</hi> and none of theſe being during the time of the <hi>Maccabees;</hi> that is not applicable to them. Next, as for <hi>Mattathias,</hi> I muſt tell you, That God often raiſed up Extraordinary Perſons to judge <hi>Iſrael,</hi> whoſe Practices muſt be no Rule to us: For God ſet up Kings and Rulers at his pleaſure: and in the Diſpenſation, He frequently ſent Extraordinary Perſons to do Extraordinary things, — And, it will be no hard task to make it appear that <hi>Mattathias</hi> was a Perſon Extraordinarily Rais'd up by God, as were the <hi>Judges;</hi> And tho' no mention of that be made, neither by <hi>Joſephus,</hi> nor the Book of <hi>Maccabees,</hi> that is not to be ſtood upon; for we have many of the Judges of <hi>Iſrael,</hi> of whoſe Call no account is given, and
+<pb n="8" facs="tcp:64430:6"/>
+yet undoubtedly they were warranted to act as they did, otherwiſe they had been <hi>Invaders.</hi>
+               </q>
+            </p>
+            <p>
+               <q rend="margQuotes">But if that Practice of <hi>Mattathias</hi> conclude any thing by way of <hi>Precedent,</hi> it will prove that <hi>Churchmen</hi> may in<g ref="char:EOLhyphen"/>vade the Magiſtrate's Office, and kill his Officers, and Raiſe War againſt him.</q>
+            </p>
+            <p>Now, Gentlemen, Will it not aſtoniſh you, when you know that every word here Repeated are the Words of this ſame <hi>Dioceſſan</hi> of Yours, when Profeſſor of <hi>Theology</hi> in <hi>Glaſ<g ref="char:EOLhyphen"/>gow,</hi> thus <hi>Spread and laid out</hi> 20 Years ago? (ſo long ſince he was in hopes it would have been forgot) in his <hi>Vindi<g ref="char:EOLhyphen"/>cation of the Church and State of</hi> Scotland. Printed at <hi>Glaſ<g ref="char:EOLhyphen"/>gow.</hi> 1673. p. 26, 27, 28, 30, 31. And p. 62. he likewiſe anſwers the other <hi>Precedent</hi> of <hi>Licinius,</hi> which he brings in his <hi>Dedication</hi> to <hi>you.</hi> 
+               <q rend="margQuotes">For your Story of <hi>Licinius</hi> (ſays the Profeſſor) the pure account of it will clear miſtakes beſt (as it is given by <hi>Euſ.</hi> 10. <hi>c.</hi> 5.) <hi>Conſtantine</hi> after he turn'd Chriſtian; being then Emperour of the <hi>West,</hi> called for <hi>Licinius,</hi> whom <hi>Galerius</hi> had made Emperour of the <hi>Eaſt;</hi> and they both from <hi>Millain,</hi> gave out Edicts in favour of the <hi>Chriſtians,</hi> giving them abſolute Liberty, and diſcharging all Perſecution on that account, which is reckon'd to have been in the Year 313. afterwards he allied with <hi>Licinius,</hi> and gave him his Siſter in Marriage, and acknowledg'd him his Collegue in the Empire. But ſome years after that Wars aroſe betwixt them, which <hi>Zoſimus</hi> and <hi>Eutropius</hi> impute to <hi>Conſtantine</hi>'s Ambition, and Impatience of a Rival: But if we believe the ac<g ref="char:EOLhyphen"/>count <hi>Euſebius</hi> gives of it, <hi>Licinius</hi> provoked with Envy at <hi>Conſtantine,</hi> and forgetting the Laws of Nature, the Bonds of Oath, Alliance and Agreement, raiſed a Peſti<g ref="char:EOLhyphen"/>ferous and cruel War againſt him, and laid many Deſigns and Snares for his Deſtruction, which he attempted long by ſecret and fraudulent ways, but theſe were always by God's Providence diſcovered, and ſo <hi>Conſtantine</hi> eſcaped all his Deſigned Miſchief: at length made War againſt
+<pb n="5" facs="tcp:64430:6"/>
+                  <hi>Conſtantine.</hi> And as he was preparing for it, he made warlike wiſe againſt <hi>God,</hi> and perſecuted the <hi>Chriſtians,</hi> becauſe he apprehended they all Prayed for <hi>Conſtantine,</hi> and wiſhed him Succeſs: whereupon he made ſevere Laws againſt the <hi>Chriſtians,</hi> forbidding the <hi>Biſhops</hi> ever to meet among themſelves, or to inſtruct any Women. After<g ref="char:EOLhyphen"/>wards he Baniſhed all that would not worſhip the Gods, and from that he went to an open Prrſecution; and not content with that, he by ſevere Laws diſcharged any to viſit and relieve ſuch as were in Priſon for the Faith. Yet notwithſtanding of all this, <hi>none</hi> that were under <hi>his Part</hi> of the Empire did <hi>Reſiſt</hi> him; nay, not ſo much as <hi>turn over</hi> to <hi>Conſtantine againſt him,</hi> for ought that appears: But upon theſe things a War followed betwixt <hi>Conſtantine</hi> and Him; wherein <hi>Licinius</hi> was defeated, and forc'd to ſubmit to what Conditions <hi>Conſtantine</hi> was pleaſed to give, who took from him <hi>Greece</hi> and <hi>Illyricum,</hi> and only left him <hi>Thrace</hi> and the <hi>Eaſt.</hi> But <hi>Licinius</hi> returning to his old ways, and breaking all Agreements, a ſecond War fol<g ref="char:EOLhyphen"/>lowed, wherein <hi>Licinius</hi> was utterly Defeated, and ſent to lead a private Life at <hi>Theſſalonica,</hi> where he was ſome time after kill'd, becauſe of new Deſigns againſt <hi>Con<g ref="char:EOLhyphen"/>ſtantine.</hi> This being the true account of that Story, I am to divine what advantage it can yield to the Cauſe of <hi>Sub<g ref="char:EOLhyphen"/>jects</hi> Reſiſting their <hi>Sovereign;</hi> For here was a <hi>Superiour</hi> Prince defending himſelf againſt the unjuſt Attempts and Hoſtile Incurſions of his Enemy, who was alſo <hi>Inferiour</hi> to him, as <hi>Euſebius</hi> ſtates it, whom conſult <hi>Book</hi> 10. <hi>Chap.</hi> 8. Firſt Book of <hi>Conſtantine</hi>'s Life. <hi>C.</hi> 42 and <hi>B.</hi> 2. <hi>C.</hi> 2. <hi>&amp;c.</hi>
+               </q>
+            </p>
+            <p>Theſe are the Words of the Learned <hi>Profeſſor,</hi> who cou'd not <hi>Divine</hi> how his Underſtanding would Improve by the time he came to be a <hi>Biſhop!</hi> That he ſhould turn about a<g ref="char:EOLhyphen"/>gain, and take up the old Exploded <hi>Rebel Pretences,</hi> which Himſelf had put into the Mouths of <hi>Presbyterians,</hi> on pur<g ref="char:EOLhyphen"/>poſe to Confute them! And without anſwering what Himſelf had then ſo Orthodoxly and Soundly delivered! Or ſo much
+<pb n="6" facs="tcp:64430:7"/>
+as letting of us know that he had ever ſaid any ſuch things in his Life! But to bring them in now as ſpick and ſpan<g ref="char:EOLhyphen"/>new! And on how he tickl'd you with shem up and down his <hi>Dioceſs!</hi> as Himſelf boaſts over again at the End of his Delicious Epiſtle. <hi>I have now</hi> (ſays he) <hi>open'd theſe two Precedents very particularly to you; they ſeem'd to weigh much with you when I have laid them out to you in ſome Conferences that I have held with you upon this Subject. I hope you will both feel</hi> (at leaſt your Lordſhip) <hi>the Force that is in them, and will be able to manage them with more advantage, now that you have them lying before you.</hi>
+            </p>
+            <p>Yes, and now that you have likewiſe the <hi>Profeſſor</hi> againſt the <hi>Biſhop;</hi> that you may <hi>ſrread,</hi> and <hi>lay them out,</hi> and <hi>turn</hi> them; and take your <hi>choice</hi> of them. And let your next Conference be towards Reconciling of them; and let the <hi>Biſhop</hi> either <hi>Convince</hi> or <hi>Excommunicate</hi> the <hi>Profeſsor.</hi> But beware the <hi>Profeſſor</hi> gain not a Greater Party among you than the <hi>Biſhop;</hi> for he has the Reputation of the <hi>honeſter</hi> Man of the two, and much the better Reformer.</p>
+            <p>I have ſeveral other Exceptions both as to the <hi>Compoſition,</hi> and the <hi>ſpreading</hi> of this <hi>Plaiſter</hi> your Spiritual Druggiſt has provided for the Sick and Wounded <hi>Conſciences.</hi> But hav<g ref="char:EOLhyphen"/>ing given you the Opinion of the Renewed Dr. <hi>Burneth;</hi> and thinking it very ſufficient to awaken you out of your <hi>Lethargy,</hi> if you will follow his Preſcriptions, ſet down in that Excellent <hi>Diſpenſatory</hi> of his, <hi>The Vindication of the Church and State of</hi> Scotland, whence I have taken this Catholicon, to expel the Poyſon of theſe two <hi>Goliah</hi> Ob<g ref="char:EOLhyphen"/>jections taken from the <hi>Maccabees</hi> and <hi>Licinius;</hi> I will re<g ref="char:EOLhyphen"/>ſerve the reſt, till I ſee the Effects of this; and diſmiſs you to your next <hi>Viſitation,</hi> which may be ſooner than you are aware.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>Printed in this Year. 1694!</p>
+         </div>
+      </back>
+   </text>
+</TEI>
